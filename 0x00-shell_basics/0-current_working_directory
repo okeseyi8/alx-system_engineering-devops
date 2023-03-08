@@ -1,1 +1,2 @@
-$path
+#!/bin/bash
+echo $path
